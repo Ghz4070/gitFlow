@@ -1,5 +1,5 @@
 ---
-name : :bug: # Markdown syntax for emoji doesn't seems to work 
+name : :bug: Bug # Markdown syntax for emoji doesn't seems to work 
 about : Use this template for bug report.
 title : "[DATE]: [FEATURE NAME]"
 labels : ":bug: bug" # But here it does 
