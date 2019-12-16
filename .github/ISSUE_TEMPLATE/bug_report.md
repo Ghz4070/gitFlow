@@ -1,3 +1,11 @@
+---
+name : :bug: # Markdown syntax for emoji doesn't seems to work 
+about : Use this template for bug report.
+title : "[DATE]: [FEATURE NAME]"
+labels : ":bug: bug" # But here it does 
+assignees: Ghz4070 # Can also be a team (ie. octo-org/octo-team)
+---
+
 <!--- Provide a general summary of the issue in the Title above -->
 
 ## Description
